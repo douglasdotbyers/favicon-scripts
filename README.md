@@ -1,10 +1,10 @@
 # Favicon Scripts
 
-Script to generate `.ico` / `.png` favicons from source `favicon.svg`.
+Script to generate favicons (`.ico` / `.png`) from source `favicon.svg`.
 
 ## Setup
 
-Ensure `convert` (ImageMagick) is installed:
+Ensure *ImageMagick* is installed:
 
 ```bash
 convert --version
